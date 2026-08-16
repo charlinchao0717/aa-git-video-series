@@ -1,4 +1,9 @@
 #this is a new file and our second commit
 
+<<<<<<< HEAD
 "this is our code
 print("I love git")
+=======
+#this is a change to our code
+print("I love merging and branching!")
+>>>>>>> branch_for_work
